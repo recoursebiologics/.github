@@ -4,9 +4,9 @@
 
 ## 🧬 About Us
 
-Recourse Biologics is a biotechnology company pioneering a new generation of precision cancer therapies. Our mission is to develop immunotherapeutics that deliver transformative clinical benefit with improved safety and durability.
+Recourse Biologics is committed to advancing precision therapeutics for oncology. Our lead molecule is **RB101**. RB101 is a first-in-class immunotherapeutic that increases professional killer cell persistence, memory formation, and cytotoxicity without systemic toxicity or exhaustion. RB101 is 12 months from IND.
 
-Our lead program, **RB101**, is a first-in-class molecule designed to enhance professional killer cell persistence, memory formation, and cytotoxicity — all without systemic toxicity or immune exhaustion. RB101 is currently 12 months from IND filing and represents a major advancement in immunotherapy design.
+In addition to RB101, Recourse Biologics has created a pipeline of compelling, first-in-class candidates. This includes validated ADCs directed at novel tumor-selective targets, and an improved method of targeting and redirecting cytotoxic lymphocytes within the tumor microenvironment using our **bispecific antibody platform**.
 
 
 ## 🌐 Website
